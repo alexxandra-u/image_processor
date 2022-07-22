@@ -1,0 +1,37 @@
+[
+{
+  "directory": "C:/alex/hse/progr_2/cpp-base-hse-2022/projects/image_processor/cmake-build-debug",
+  "command": "C:\\alex\\apps\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -IC:/alex/hse/progr_2/cpp-base-hse-2022/projects/image_processor/contrib/catch  -Wall -Wall -Werror -g -g -std=gnu++20 -o CMakeFiles\\contrib_catch_main.dir\\contrib\\catch\\catch_main.cpp.obj -c C:\\alex\\hse\\progr_2\\cpp-base-hse-2022\\projects\\image_processor\\contrib\\catch\\catch_main.cpp",
+  "file": "C:\\alex\\hse\\progr_2\\cpp-base-hse-2022\\projects\\image_processor\\contrib\\catch\\catch_main.cpp"
+},
+{
+  "directory": "C:/alex/hse/progr_2/cpp-base-hse-2022/projects/image_processor/cmake-build-debug",
+  "command": "C:\\alex\\apps\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE  -Wall -Wall -Werror -g -g -std=gnu++20 -o CMakeFiles\\image_processor.dir\\image_processor.cpp.obj -c C:\\alex\\hse\\progr_2\\cpp-base-hse-2022\\projects\\image_processor\\image_processor.cpp",
+  "file": "C:\\alex\\hse\\progr_2\\cpp-base-hse-2022\\projects\\image_processor\\image_processor.cpp"
+},
+{
+  "directory": "C:/alex/hse/progr_2/cpp-base-hse-2022/projects/image_processor/cmake-build-debug",
+  "command": "C:\\alex\\apps\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE  -Wall -Wall -Werror -g -g -std=gnu++20 -o CMakeFiles\\image_processor.dir\\cmd_arg_params.cpp.obj -c C:\\alex\\hse\\progr_2\\cpp-base-hse-2022\\projects\\image_processor\\cmd_arg_params.cpp",
+  "file": "C:\\alex\\hse\\progr_2\\cpp-base-hse-2022\\projects\\image_processor\\cmd_arg_params.cpp"
+},
+{
+  "directory": "C:/alex/hse/progr_2/cpp-base-hse-2022/projects/image_processor/cmake-build-debug",
+  "command": "C:\\alex\\apps\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE  -Wall -Wall -Werror -g -g -std=gnu++20 -o CMakeFiles\\image_processor.dir\\filter_pipeline_factory.cpp.obj -c C:\\alex\\hse\\progr_2\\cpp-base-hse-2022\\projects\\image_processor\\filter_pipeline_factory.cpp",
+  "file": "C:\\alex\\hse\\progr_2\\cpp-base-hse-2022\\projects\\image_processor\\filter_pipeline_factory.cpp"
+},
+{
+  "directory": "C:/alex/hse/progr_2/cpp-base-hse-2022/projects/image_processor/cmake-build-debug",
+  "command": "C:\\alex\\apps\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE  -Wall -Wall -Werror -g -g -std=gnu++20 -o CMakeFiles\\image_processor.dir\\base_filters.cpp.obj -c C:\\alex\\hse\\progr_2\\cpp-base-hse-2022\\projects\\image_processor\\base_filters.cpp",
+  "file": "C:\\alex\\hse\\progr_2\\cpp-base-hse-2022\\projects\\image_processor\\base_filters.cpp"
+},
+{
+  "directory": "C:/alex/hse/progr_2/cpp-base-hse-2022/projects/image_processor/cmake-build-debug",
+  "command": "C:\\alex\\apps\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE  -Wall -Wall -Werror -g -g -std=gnu++20 -o CMakeFiles\\image_processor.dir\\bitmap.cpp.obj -c C:\\alex\\hse\\progr_2\\cpp-base-hse-2022\\projects\\image_processor\\bitmap.cpp",
+  "file": "C:\\alex\\hse\\progr_2\\cpp-base-hse-2022\\projects\\image_processor\\bitmap.cpp"
+},
+{
+  "directory": "C:/alex/hse/progr_2/cpp-base-hse-2022/projects/image_processor/cmake-build-debug",
+  "command": "C:\\alex\\apps\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE  -Wall -Wall -Werror -g -g -std=gnu++20 -o CMakeFiles\\image_processor.dir\\application.cpp.obj -c C:\\alex\\hse\\progr_2\\cpp-base-hse-2022\\projects\\image_processor\\application.cpp",
+  "file": "C:\\alex\\hse\\progr_2\\cpp-base-hse-2022\\projects\\image_processor\\application.cpp"
+}
+]

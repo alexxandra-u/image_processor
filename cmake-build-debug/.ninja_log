@@ -1,0 +1,18 @@
+# ninja log v5
+7	1614	6701016928560738	CMakeFiles/image_processor.dir/image_processor.cpp.obj	57fef244189d5bde
+4	907	6700854683969526	CMakeFiles/image_processor.dir/cmd_arg_params.cpp.obj	7bbcab866b49f8ca
+38	1565	6701014317562180	CMakeFiles/image_processor.dir/base_filters.cpp.obj	481a7b40bce153a
+10	357	6801861696486275	build.ninja	e5b602827e4bf8b6
+23	1136	6700852220748968	CMakeFiles/image_processor.dir/bitmap.cpp.obj	d8da118e0056d3fa
+18	1713	6701016929512931	CMakeFiles/image_processor.dir/filter_pipeline_factory.cpp.obj	c372256a294af271
+1718	2052	6701016932911540	image_processor.exe	c803139d066da52d
+7	2874	6701018957606720	CMakeFiles/image_processor_test.dir/test.cpp.obj	a0cb7dab164ce519
+44	2095	6701018430956257	CMakeFiles/image_processor_test.dir/filter_pipeline_factory.cpp.obj	a75c72c32209aa10
+5	18807	6700231640731601	CMakeFiles/contrib_catch_main.dir/contrib/catch/catch_main.cpp.obj	26b39a35024fe8fe
+18807	50711	6700231960092638	libcontrib_catch_main.a	bee9166a72723960
+30	1718	6701016929600780	CMakeFiles/image_processor.dir/application.cpp.obj	74bce66774851a64
+28	1618	6701018426189857	CMakeFiles/image_processor_test.dir/cmd_arg_params.cpp.obj	a08f229e758c90b7
+41	1840	6700756464812732	CMakeFiles/image_processor_test.dir/bitmap.cpp.obj	a9ab9179f593c23a
+85	2060	6701018430605748	CMakeFiles/image_processor_test.dir/base_filters.cpp.obj	756cbc17be48c2cb
+16	2056	6701018430580453	CMakeFiles/image_processor_test.dir/application.cpp.obj	e102960382d6e37
+2875	34573	6701019274595501	image_processor_test.exe	cda957921a536fb2
